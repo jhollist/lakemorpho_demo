@@ -1,0 +1,9 @@
+]0;/home/jhollist/projects/lakemorpho_demo]0;jhollist@jwh: ~/projects/lakemorpho_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/lakemorpho_demo[00m$ [K]0;jhollist@jwh: ~/projects/lakemorpho_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/lakemorpho_demo[00m$ git initi
+git: 'initi' is not a git command. See 'git --help'.
+
+Did you mean this?
+	init
+]0;/home/jhollist/projects/lakemorpho_demo]0;jhollist@jwh: ~/projects/lakemorpho_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/lakemorpho_demo[00m$ git initi[Kgit init
+Initialized empty Git repository in /home/jhollist/projects/lakemorpho_demo/.git/
+]0;/home/jhollist/projects/lakemorpho_demo]0;jhollist@jwh: ~/projects/lakemorpho_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/lakemorpho_demo[00m$ git remote -v [K[K[Kadd a[Korigin https://github.com/jhollist/lakemorpho_ demo
+]0;/home/jhollist/projects/lakemorpho_demo]0;jhollist@jwh: ~/projects/lakemorpho_demo[01;32mjhollist@jwh[00m:[01;34m~/projects/lakemorpho_demo[00m$ git pu[K[Kadd -A
